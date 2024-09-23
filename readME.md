@@ -4,7 +4,7 @@
     - `sales` est un 'embedded' schema qui stock tout les vents d'un produit, avec l'id du client associé. 
 2. `Client` qui contient les informations personel 
 
-```json
+```js
     db.createCollection("product", {
         validator: {
             $jsonSchema: {
