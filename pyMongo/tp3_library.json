@@ -1,0 +1,126 @@
+{
+  "livres": [
+    {
+    "titre": "Les Misérables",
+    "auteur": "Victor Hugo",
+    "annee": 1862,
+    "categorie": "Roman classique",
+    "prix": 15.99
+    },
+    {
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exupéry",
+    "annee": 1943,
+    "categorie": "Littérature pour enfants",
+    "prix": 9.99
+    },
+    {
+    "titre": "Harry Potter à l'école des sorciers",
+    "auteur": "J.K. Rowling",
+    "annee": 1997,
+    "categorie": "Fantasy",
+    "prix": 12.99
+    },
+    {
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "annee": 1949,
+    "categorie": "Science-fiction",
+    "prix": 11.99
+    },
+    {
+    "titre": "Le Seigneur des Anneaux",
+    "auteur": "J.R.R. Tolkien",
+    "annee": 1954,
+    "categorie": "Fantasy",
+    "prix": 14.99
+    },
+    {
+    "titre": "Crime et Châtiment",
+    "auteur": "Fiodor Dostoïevski",
+    "annee": 1866,
+    "categorie": "Roman classique",
+    "prix": 13.99
+    },
+    {
+    "titre": "Orgueil et Préjugés",
+    "auteur": "Jane Austen",
+    "annee": 1813,
+    "categorie": "Roman classique",
+    "prix": 10.99
+    },
+    {
+    "titre": "Le Comte de Monte-Cristo",
+    "auteur": "Alexandre Dumas",
+    "annee": 1844,
+    "categorie": "Roman classique",
+    "prix": 14.99
+    },
+    {
+    "titre": "Guerre et Paix",
+    "auteur": "Léon Tolstoï",
+    "annee": 1869,
+    "categorie": "Roman historique",
+    "prix": 16.99
+    },
+    {
+    "titre": "Les Fleurs du Mal",
+    "auteur": "Charles Baudelaire",
+    "annee": 1857,
+    "categorie": "Poésie",
+    "prix": 9.99
+    }
+  ],
+  "auteurs": [
+    {
+      "nom": "Victor Hugo",
+      "pays": "France",
+      "naissance": "26 février 1802"
+    },
+    {
+      "nom": "Antoine de Saint-Exupéry",
+      "pays": "France",
+      "naissance": "29 juin 1900"
+    },
+    {
+      "nom": "J.K. Rowling",
+      "pays": "Royaume-Uni",
+      "naissance": "31 juillet 1965"
+    },
+    {
+      "nom": "George Orwell",
+      "pays": "Royaume-Uni",
+      "naissance": "25 juin 1903"
+    },
+    {
+      "nom": "J.R.R. Tolkien",
+      "pays": "Royaume-Uni",
+      "naissance": "3 janvier 1892"
+    },
+    {
+      "nom": "Fiodor Dostoïevski",
+      "pays": "Russie",
+      "naissance": "11 novembre 1821"
+    },
+    {
+      "nom": "Jane Austen",
+      "pays": "Royaume-Uni",
+      "naissance": "16 décembre 1775"
+    },
+    {
+      "nom": "Alexandre Dumas",
+      "pays": "France",
+      "naissance": "24 juillet 1802"
+    },
+    {
+      "nom": "Léon Tolstoï",
+      "pays": "Russie",
+      "naissance": "9 septembre 1828"
+    },
+    {
+      "nom": "Charles Baudelaire",
+      "pays": "France",
+      "naissance": "9 avril 1821"
+    }
+  ]
+}

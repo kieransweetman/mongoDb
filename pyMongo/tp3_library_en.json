@@ -1,0 +1,126 @@
+{
+  "books": [
+    {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "year": 1862,
+      "category": "Roman classique",
+      "price": 15.99
+    },
+    {
+      "title": "Le Petit Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "category": "Littérature pour enfants",
+      "price": 9.99
+    },
+    {
+      "title": "Harry Potter à l'école des sorciers",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "category": "Fantasy",
+      "price": 12.99
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "category": "Science-fiction",
+      "price": 11.99
+    },
+    {
+      "title": "Le Seigneur des Anneaux",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "category": "Fantasy",
+      "price": 14.99
+    },
+    {
+      "title": "Crime et Châtiment",
+      "author": "Fiodor Dostoïevski",
+      "year": 1866,
+      "category": "Roman classique",
+      "price": 13.99
+    },
+    {
+      "title": "Orgueil et Préjugés",
+      "author": "Jane Austen",
+      "year": 1813,
+      "category": "Roman classique",
+      "price": 10.99
+    },
+    {
+      "title": "Le Comte de Monte-Cristo",
+      "author": "Alexandre Dumas",
+      "year": 1844,
+      "category": "Roman classique",
+      "price": 14.99
+    },
+    {
+      "title": "Guerre et Paix",
+      "author": "Léon Tolstoï",
+      "year": 1869,
+      "category": "Roman historique",
+      "price": 16.99
+    },
+    {
+      "title": "Les Fleurs du Mal",
+      "author": "Charles Baudelaire",
+      "year": 1857,
+      "category": "Poésie",
+      "price": 9.99
+    }
+  ],
+  "authors": [
+    {
+      "name": "Victor Hugo",
+      "country": "France",
+      "birth": "26 février 1802"
+    },
+    {
+      "name": "Antoine de Saint-Exupéry",
+      "country": "France",
+      "birth": "29 juin 1900"
+    },
+    {
+      "name": "J.K. Rowling",
+      "country": "Royaume-Uni",
+      "birth": "31 juillet 1965"
+    },
+    {
+      "name": "George Orwell",
+      "country": "Royaume-Uni",
+      "birth": "25 juin 1903"
+    },
+    {
+      "name": "J.R.R. Tolkien",
+      "country": "Royaume-Uni",
+      "birth": "3 janvier 1892"
+    },
+    {
+      "name": "Fiodor Dostoïevski",
+      "country": "Russie",
+      "birth": "11 novembre 1821"
+    },
+    {
+      "name": "Jane Austen",
+      "country": "Royaume-Uni",
+      "birth": "16 décembre 1775"
+    },
+    {
+      "name": "Alexandre Dumas",
+      "country": "France",
+      "birth": "24 juillet 1802"
+    },
+    {
+      "name": "Léon Tolstoï",
+      "country": "Russie",
+      "birth": "9 septembre 1828"
+    },
+    {
+      "name": "Charles Baudelaire",
+      "country": "France",
+      "birth": "9 avril 1821"
+    }
+  ]
+}
